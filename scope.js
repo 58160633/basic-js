@@ -19,15 +19,17 @@ function a1(fn){
 //  console.log(b)
 console.log(`a = ${a}`);
 console.log(typeof fn);
-
-
-
-  if(true){
-    var b = 2
-    console.log(b)
-  }
-
+fn()
 }
+
+
+
+  //if(true){
+    //var b = 2
+    //console.log(b)
+  //}
+
+//}
 
 
 function b1() {
